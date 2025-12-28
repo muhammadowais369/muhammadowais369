@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning
+Student of Mechatronics and Control Engineering
+At Unversity of Engineering Technology Lahore 
 
 
 # 💻 Tech Stack:
@@ -14,5 +15,3 @@ I'm currently learning
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadowais369&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
